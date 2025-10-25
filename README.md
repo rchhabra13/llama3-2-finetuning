@@ -32,8 +32,8 @@ A comprehensive guide and implementation for fine-tuning Meta's Llama 3.2 models
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/rchhabra13/portfolio-projects.git
-   cd portfolio-projects/llama3.2_finetuning
+   git clone https://github.com/rchhabra13/llama3.2_finetuning.git
+   cd llama3.2_finetuning
    ```
 
 2. **Install dependencies**
